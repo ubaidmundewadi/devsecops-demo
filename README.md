@@ -14,7 +14,7 @@
 - 📱 Responsive design for all devices
 
 ## Technologies Used
-
+#####
 - React 18
 - TypeScript
 - Tailwind CSS
