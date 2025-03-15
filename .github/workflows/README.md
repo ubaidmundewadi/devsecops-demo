@@ -46,3 +46,6 @@ kubectl apply -f kubernetes/deployment.yaml
 ```
 
 Or set up a webhook to trigger the deployment when the manifest is updated.
+
+
+## Test event
